@@ -1,3 +1,7 @@
+#NAME : J ROGITH 
+# REFERENCE NUMBER : 2490070
+
+
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:
 
@@ -41,6 +45,9 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/4eeb0593-c26c-4d39-9524-e5968165edf1)
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
